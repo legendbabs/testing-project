@@ -1,0 +1,20 @@
+body {
+  background: #f10258;
+}
+
+h1 {
+  color: yellow;
+  font-family: Arial, Helvetica, sans-serif;
+  text-transform: capitalize;
+}
+
+p {
+  font-family: monospace;
+  font-size: 1.5rem;
+  color: white;
+}
+
+span {
+  text-transform: uppercase;
+  background: green;
+}
